@@ -43,4 +43,6 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ahmd-sinan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 My Coding Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmd-sinan&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmd-sinan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmd-sinan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
