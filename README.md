@@ -39,10 +39,16 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
-### 🏆 My Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ahmd-sinan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+### ⚡ System Status
+```text
+sinan@github:~$ ./current_status.sh
 
-### 🔥 My Coding Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmd-sinan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+> 👤 User: Ahamed Sinan
+> 📍 Location: Kerala, India
+> 🔭 Focus: C Programming & System Logic
+> 🐧 OS Preference: Linux / Open Source
+> 🎓 Learning: CS50x (Harvard)
+> 🟢 Status: ONLINE & Coding...
+```
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmd-sinan&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<p align="left"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dahmd-sinan%26label%3DProfile%2520Views%26color%3D0e75b6%26style%3Dflat" alt="Views" /> </p>
