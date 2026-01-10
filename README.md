@@ -18,15 +18,15 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ### 📚 What I'm Currently Learning
 I document my **Daily Learning Log** in my TIL Repo, Check it out! 
-<br><br>[![My TIL](https://img.shields.io/badge/📓_Today_I_Learned_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learned) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
+<br><br>[![My TIL](https://img.shields.io/badge/📑_Today_I_Learned_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learned) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
 
 ---
 
 ### 🏆 Certifications
 | Certificate | Issuer | Status |
 | :--- | :--- | :--- |
+| **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
 | **C For Everyone** | UC Santa Cruz | ✅ Completed |
-| **Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
 | **CS50x** | Harvard University | ⏳ In Progress |
 
 ---
