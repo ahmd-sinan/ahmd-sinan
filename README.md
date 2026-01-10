@@ -42,25 +42,7 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 My Coding Activity
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ahmd-sinan&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
-
-<p align="left">
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-
-### ⚡ System Status
-```text
-sinan@github:~$ ./current_status.sh
-
-> 👤 User: Ahamed Sinan
-> 📍 Location: Kerala, India
-> 🔭 Focus: C Programming & System Logic
-> 🐧 OS Preference: Linux / Open Source
-> 🎓 Learning: CS50x (Harvard)
-> 🟢 Status: ONLINE & Coding...
-```
-
