@@ -34,9 +34,10 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ### 🏆 Certifications
 | Certificate | Issuer | Status |
-- | **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
-- | **C For Everyone** | UC Santa Cruz | ✅ Completed |
-- | **CS50x** | Harvard University | ⏳ In Progress |
+| :--- | :--- | :--- |
+| **C For Everyone** | UC Santa Cruz | ✅ Completed |
+| **Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
+| **CS50x** | Harvard University | ⏳ In Progress |
 
 ---
 
@@ -45,18 +46,3 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
   <img src="https://github-readme-stats.vercel.app/api?username=ahmd-sinan&show_icons=true&theme=tokyonight" alt="Ahamed Sinan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd-sinan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-<!--
-**ahmd-sinan/ahmd-sinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
