@@ -1,11 +1,9 @@
 name: Generate Snake
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *" 
   
-  # Allows you to run it manually whenever you want
   workflow_dispatch:
 
 jobs:
@@ -15,9 +13,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Name of the user to generate the snake for
           github_user_name: ahmd-sinan
-          # The output files (we only need the dark mode one)
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
