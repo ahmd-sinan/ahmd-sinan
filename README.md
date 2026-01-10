@@ -50,16 +50,7 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 <p align="left">
   <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
----
 
-### 🏆 Certifications
-| Certificate | Issuer | Status |
-| :--- | :--- | :--- |
-| **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
-| **C For Everyone** | UC Santa Cruz | ✅ Completed |
-| **CS50x** | Harvard University | ⏳ In Progress |
-
----
 
 ### ⚡ System Status
 ```text
