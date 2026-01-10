@@ -16,6 +16,10 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
+### 📚 What I'm Currently Learning
+I document my daily learning login my TIL Repo, Check it out!
+- **Daily Learning Log:** [Today-I-Learned](https://github.com/your-username/Today-I-Learned) ![Last Commit](https://img.shields.io/github/last-commit/your-username/Today-I-Learned?style=flat&color=green&label=Updated)
+
 ### 🛠️ Tech Stack & Arsenal
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
