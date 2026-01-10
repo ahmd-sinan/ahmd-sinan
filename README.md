@@ -42,7 +42,7 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
-### 🐍 My Coding Activity
+### My Coding Activity
 <p align="left">
   <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
