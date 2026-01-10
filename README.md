@@ -11,14 +11,14 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 - 🔭 **Programming:** Mastering **C** to understand memory management, pointers, and machine logic.
 - 🐧 **Linux & Open Source:** I am self-taught in Linux environments, enjoying the command line and OS architecture.
 - 🧠 **Computer Science Fundamentals:** Deep diving into Algorithms, Data Structures, and how programming languages are built.
-- 🌐 **Web Technologies:** I also build websites using HTML, CSS, & JS as part of my full-stack learning journey.
+- 🌐 **Web Technologies:** I also build websites using HTML, CSS, & JS as part of my learning journey.
 - 🤖 **AI:** Exploring and learning new AI tools and future of tech
 
 ---
 
 ### 📚 What I'm Currently Learning
-I document my **Daily Learning** Log in my TIL Repo, Check it out! 
-<br><br>[![My TIL](https://img.shields.io/badge/🚀_Today_I_Learned_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learned) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
+I document my **Daily Learning Log** in my TIL Repo, Check it out! 
+<br><br>[![My TIL](https://img.shields.io/badge/📓_Today_I_Learned_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learned) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
 
 ---
 
