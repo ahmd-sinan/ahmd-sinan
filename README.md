@@ -19,9 +19,9 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 ### 🛠️ Tech Stack & Arsenal
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
-  <t></t>
+  <t>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <t></t>
+  </t>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <t>
 
