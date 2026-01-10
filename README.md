@@ -40,7 +40,5 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmd-sinan&show_icons=true&theme=tokyonight" alt="Ahamed Sinan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd-sinan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Ahamed's Stats](https://github-readme-stats.vercel.app/api?username=ahmd-sinan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd-sinan&layout=compact&theme=tokyonight)
