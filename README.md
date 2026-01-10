@@ -17,20 +17,48 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 ---
 
 ### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & Arsenal
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <br>
+  &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
+  <br> <br> 
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <br>
   <br>
 
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+### 🏆 Certifications
+| Certificate | Issuer | Status |
+| :--- | :--- | :--- |
+| **C For Everyone** | UC Santa Cruz | ✅ Completed |
+| **Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
+| **CS50x** | Harvard University | ⏳ In Progress |
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ahmd-sinan&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 ---
 
 ### 🏆 Certifications
