@@ -7,15 +7,6 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
-### 📊 My Coding Stats (Auto-Updates)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmd-sinan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmd-sinan&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
-
----
-
 ### 🎯 What I'm Focused On
 - 🔭 **Programming:** Mastering **C** to understand memory management, pointers, and machine logic.
 - 🐧 **Linux & Open Source:** I am self-taught in Linux environments, enjoying the command line and OS architecture.
