@@ -7,6 +7,31 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
+<div align="center">
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> 
+  <h1>Hi there, I'm Ahamed Sinan!</h1>
+  
+  <p>
+    <b>BCA Student</b> • <b>Self-Taught Dev</b> • <b>Linux Enthusiast</b>
+  </p>
+
+  <p>
+    I love digging under the hood — building small C programs, learning Linux kernels, and understanding how memory works<br>
+    while shipping web projects to level up. 🚀
+  </p>
+
+  <a href="https://www.linkedin.com/in/ahamed-sinan-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ahmdsinan4040@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
+
+---
+
 ### 🎯 What I'm Focused On
 - 🔭 **Programming:** Mastering **C** to understand memory management, pointers, and machine logic.
 - 🐧 **Linux & Open Source:** I am self-taught in Linux environments, enjoying the command line and OS architecture.
