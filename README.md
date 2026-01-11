@@ -52,3 +52,10 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 <p align="left">
   <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
+---
+
+### 📊 Analytics Dashboard
+<div align="center">
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
+</div>
