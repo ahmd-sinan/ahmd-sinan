@@ -7,7 +7,7 @@ I am a **Self-Taught Developer** who loves exploring new technologies. My true p
 
 ---
 
-### 🚀 What I'm Focused On
+### 🎯 What I'm Focused On
 - 🔭 **Programming:** Mastering **C** to understand memory management, pointers, and machine logic.
 - 🐧 **Linux & Open Source:** I am self-taught in Linux environments, enjoying the command line and OS architecture.
 - 🧠 **Computer Science Fundamentals:** Deep diving into Algorithms, Data Structures, and how programming languages are built.
@@ -48,38 +48,7 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 
 ---
 
-### My Coding Activity
+### My Activity
 <p align="left">
   <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 📊 Analytics Dashboard
-<div align="center">
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
-</div>
-
----
-
-### 📊 Analytics Control Panel
-<p align="center">
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Languages" />
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Time" />
-</p>
-
----
-
-### 🧊 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-3d-contrib/profile-night-view.svg" alt="3D View" />
 </p>
