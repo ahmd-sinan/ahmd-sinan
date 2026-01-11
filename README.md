@@ -59,3 +59,20 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 <div align="center">
   <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
+
+---
+
+### 📊 Analytics Control Panel
+<p align="center">
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Languages" />
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="https://github.com/ahmd-sinan/ahmd-sinan/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Time" />
+</p>
