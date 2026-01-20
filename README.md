@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahamed Sinan! 👋
 #### 🎓 BCA Student | 💻 Self-Taught Programmer | 🐧 Linux Enthusiast
 
-I am currently pursuing my **Bachelor of Computer Applications (BCA) with AI Add-on** at **Majlis Arts and Science College** (Affiliated to University of Calicut).
+I am currently pursuing my **Bachelor of Computer Applications (BCA) with AI Add-on** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
 
 I am a **Self-Taught Developer** who loves exploring new technologies. My true passion isn't just building things, but understanding **how computers actually work underneath the hood**—from the OS kernel to high-level software.
 
