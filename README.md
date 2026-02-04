@@ -25,7 +25,7 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 ### 🏆 Certifications
 | Certificate | Issuer | Status | Link |
 | :--- | :--- | :--- | :--- |
-| **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed | ./certs/Certificate of Participation - 3 Day Web Development.png |
+| **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed | [🖼️ View PNG](./certs/web-dev-bootcamp.png) |
 | **C For Everyone** | UC Santa Cruz | ✅ Completed | Soon |
 | **CS50x** | Harvard University | ⏳ In Progress | Soon |
 
