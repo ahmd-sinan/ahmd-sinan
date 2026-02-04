@@ -23,11 +23,11 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 ---
 
 ### 🏆 Certifications
-| Certificate | Issuer | Status |
-| :--- | :--- | :--- |
-| **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed |
-| **C For Everyone** | UC Santa Cruz | ✅ Completed |
-| **CS50x** | Harvard University | ⏳ In Progress |
+| Certificate | Issuer | Status | Link |
+| :--- | :--- | :--- | :--- |
+| **3 Day Web Dev Bootcamp** | Tegrand Infotech | ✅ Completed | ./certs/Certificate of Participation - 3 Day Web Development.png |
+| **C For Everyone** | UC Santa Cruz | ✅ Completed | Soon |
+| **CS50x** | Harvard University | ⏳ In Progress | Soon |
 
 ---
 
