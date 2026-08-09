@@ -1,18 +1,18 @@
 ### Hi there, I'm Ahamed Sinan! 👋
-#### BCA Student | 💻 Self-Taught Programmer | 🐧 Linux Enthusiast
+#### Undergraduate | 🎓 Harvard CS50x Verified | Linux & Cloud Enthusiast 🐧
 
-I am currently pursuing my **Bachelor of Computer Applications (BCA) with AI Add-on** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
+I am currently pursuing my **Bachelor of Computer Applications (BCA)** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
 
-I am a **Self-Taught Developer** who loves exploring new technologies. Currently focused on building strong low-level foundations before scaling up. My true passion isn't just building things, but understanding **how computers actually work underneath the hood**.
+I am a **Self-Taught Developer** who love exploring how operating systems work and passionate about infrastructure. My goal is to build a strong foundation in Linux and core system operations as I step into the world of Cloud computing.
 
 ---
 
 ### 🎯 What I'm Focused On
--  **Programming:** Learning **Python** and Mastering **C** to understand memory management, pointers, and machine logic. 
--  **Linux & Open Source:** I am self-taught in Linux environments, enjoying the command line and OS architecture.
--  **Computer Science Fundamentals:** Deep diving into Algorithms, Data Structures, and how programming languages are built.
--  **Web Technologies:** I also build websites using HTML, CSS, & JS as part of my learning journey.
--  **AI:** Exploring and learning new AI tools and future of tech.
+- **🐧 Linux & Open Source:** Deep diving into Linux environments, mastering the command line, and exploring OS architecture.
+- **☁️ Cloud Infrastructure:** Learning the core fundamentals of Cloud computing and getting hands-on with basic AWS services.
+- **💻 Programming:** Writing efficient, practical code in C and Python, while actively mastering Python
+- **⚙️ Backend Development:** Building functional, server-side applications and routing logic using Python and Flask.
+- **🛠️ Systems Foundation:** Exploring low-level logic, custom data structures, and memory management to understand how computers really work.
 
 ---
 
@@ -25,9 +25,10 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 ### 🏆 Certifications
 | Certificate | Issuer | Desciption | Status | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **3 Day Web Dev Bootcamp** | Tegrand Infotech | Hands-on bootcamp focused on building responsive web projects using HTML5, CSS3, Tailwind CSS, and JavaScript fundamentals | ✅ Completed | [Click Here](./certs/web-dev-bootcamp.png) |
+| **CS50x** | Harvard University | Introduction to the intellectual enterprises of computer science and the art of programming by Harvard University | ✅ Completed | [Click Here](https://certificates.cs50.io/68fbdd49-9bca-4016-b9fc-562864ff1109) |
 | **C For Everyone** | University of California, Santa Cruz | Comprehensive introduction to C programming covering compilation, debugging, variables, data types, and core problem-solving logic by UC Santa Cruz | ✅ Completed | [Click Here](https://coursera.org/share/e9695ed47a0019ac5a0cc4d8085eb8c3) |
-| **CS50x** | Harvard University | Introduction to the intellectual enterprises of computer science and the art of programming by Harvard University | ⏳ Currently Learning | - |
+| **3 Day Web Dev Bootcamp** | Tegrand Infotech | Hands-on bootcamp focused on building responsive web projects using HTML5, CSS3, Tailwind CSS, and JavaScript fundamentals | ✅ Completed | [Click Here](./certs/web-dev-bootcamp.png) |
+
 
 ---
 
