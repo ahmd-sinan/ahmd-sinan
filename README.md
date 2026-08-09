@@ -7,15 +7,6 @@ I am a **Self-Taught Developer** who love exploring how operating systems work a
 
 ---
 
-### 🎯 What I'm Focused On
-- **🐧 Linux & Open Source:** Deep diving into Linux environments, mastering the command line, and exploring OS architecture.
-- **☁️ Cloud Infrastructure:** Learning the core fundamentals of Cloud computing and getting hands-on with basic AWS services.
-- **💻 Programming:** Writing efficient, practical code in C and Python, while actively mastering Python
-- **⚙️ Backend Development:** Building functional, server-side applications and routing logic using Python and Flask.
-- **🛠️ Systems Foundation:** Exploring low-level logic, custom data structures, and memory management to understand how computers really work.
-
----
-
 ### Tech Stack & Arsenal
 <p align="left"> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
@@ -38,6 +29,15 @@ I am a **Self-Taught Developer** who love exploring how operating systems work a
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+---
+
+### 🎯 What I'm Focused On
+- **🐧 Linux & Open Source:** Deep diving into Linux environments, mastering the command line, and exploring OS architecture.
+- **☁️ Cloud Infrastructure:** Learning the core fundamentals of Cloud computing and getting hands-on with basic AWS services.
+- **💻 Programming:** Writing efficient, practical code in C and Python, while actively mastering Python
+- **⚙️ Backend Development:** Building functional, server-side applications and routing logic using Python and Flask.
+- **🛠️ Systems Foundation:** Exploring low-level logic, custom data structures, and memory management to understand how computers really work.
 
 ---
 
