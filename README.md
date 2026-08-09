@@ -9,6 +9,7 @@ I am a **Self-Taught Developer** who love exploring how operating systems work a
 
 ### Tech Stack & Arsenal
 <p align="center">
+  <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
