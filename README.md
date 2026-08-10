@@ -43,7 +43,7 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 ### 🏆 Certifications
 | Certificate | Issuer | Desciption | Status | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **CS50x** | Harvard University | Introduction to the intellectual enterprises of computer science and the art of programming by Harvard University | ✅ Completed | [Click Here](https://certificates.cs50.io/68fbdd49-9bca-4016-b9fc-562864ff1109) |
+| **CS50x** | Harvard University | Introduction to the intellectual enterprises of computer science and the art of programming by Harvard University covering C, Python, SQL, HTML/CSS, JavaScript & FLask | ✅ Completed | [Click Here](https://certificates.cs50.io/68fbdd49-9bca-4016-b9fc-562864ff1109) |
 | **C For Everyone** | University of California, Santa Cruz | Comprehensive introduction to C programming covering compilation, debugging, variables, data types, and core problem-solving logic by UC Santa Cruz | ✅ Completed | [Click Here](https://coursera.org/share/e9695ed47a0019ac5a0cc4d8085eb8c3) |
 | **3 Day Web Dev Bootcamp** | Tegrand Infotech | Hands-on bootcamp focused on building responsive web projects using HTML5, CSS3, Tailwind CSS, and JavaScript fundamentals | ✅ Completed | [Click Here](./certs/web-dev-bootcamp.png) |
 
