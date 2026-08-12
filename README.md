@@ -1,5 +1,5 @@
-### Hi there, I'm Ahamed Sinan! 👋
-#### Undergraduate | 🎓 Harvard CS50x Verified | Linux & Cloud Enthusiast 🐧
+### Hi there, I'm Ahamed Sinan! 
+#### Undergraduate | 🎓 Harvard CS50x Certified | Linux & Cloud Enthusiast 🐧
 
 I am currently pursuing my **Bachelor of Computer Applications (BCA)** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
 
