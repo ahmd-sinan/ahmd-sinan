@@ -59,7 +59,7 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 ### Linux Systems & Architecture Docs
 I am actively building a comprehensive, structured handbook on **Linux system architecture**, server environments, and backend infrastructure.
 <br><br>
-[![Linux Architecture Notes](https://img.shields.io/badge/ Linux_Architecture_Notes-Read Docs-blue?style=for-the-badge&logo=linux)](https://github.com/ahmd-sinan/linux-architecture-notes)
+[![Linux Architecture Notes](https://img.shields.io/badge/_Linux_Architecture_Notes-Read_Docs-blue?style=for-the-badge&logo=linux)](https://github.com/ahmd-sinan/linux-architecture-notes)
 
 ---
 
