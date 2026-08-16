@@ -4,12 +4,14 @@
   </a>
 </p>
 
+<br>
 <p align="center">
   <strong>Undergraduate | 🎓 Harvard CS50x Certified | Linux & Cloud Enthusiast 🐧</strong>
 </p>
-I am currently pursuing my **Bachelor of Computer Applications (BCA)** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
 
-I am a **Self-Taught Developer** who love exploring how operating systems work and passionate about infrastructure. My goal is to build a strong foundation in Linux and core system operations as I step into the world of Cloud computing.
+I am currently pursuing my **Bachelor of Computer Applications (BCA)** and **Self-taught Developer** passionate about backend systems, Linux, cloud infrastructure, and low-level software engineering.
+
+Currently, I am expanding my backend expertise into the cloud domain. I spend my time exploring Linux OS architecture, and learning the core foundational concepts of AWS. My ultimate goal is to bridge the gap between low-level system efficiency and scalable cloud infrastructure.
 
 ---
 
