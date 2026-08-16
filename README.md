@@ -36,7 +36,14 @@ I am a **Self-Taught Developer** who love exploring how operating systems work a
 
 ### What I'm Currently Learning
 I document my **Daily Learning Log** in my TIL Repo, Check it out! 
-<br><br>[![My TIL](https://img.shields.io/badge/_Today_I_Learnt_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learnt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
+<br><br>
+[![My TIL](https://img.shields.io/badge/_Today_I_Learnt_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learnt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
+
+---
+### 🐧 Deep-Dive Technical Wiki
+I am actively building a comprehensive, structured handbook on **Linux system architecture**, server environments, and backend infrastructure.
+<br><br>
+[![Linux Architecture Notes](https://img.shields.io/badge/View_My-Linux_Architecture_Notes-blue?style=for-the-badge&logo=linux)](https://github.com/ahmd-sinan/linux-architecture-notes)
 
 ---
 
