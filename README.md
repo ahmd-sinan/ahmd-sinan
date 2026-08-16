@@ -1,11 +1,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ahamed+Sinan!;Welcome+to+my+developer+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ahamed+Sinan!;Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </p>
 
-#### Undergraduate | 🎓 Harvard CS50x Certified | Linux & Cloud Enthusiast 🐧
-
+<p align="center">
+  <strong>Undergraduate | 🎓 Harvard CS50x Certified | Linux & Cloud Enthusiast 🐧</strong>
+</p>
 I am currently pursuing my **Bachelor of Computer Applications (BCA)** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
 
 I am a **Self-Taught Developer** who love exploring how operating systems work and passionate about infrastructure. My goal is to build a strong foundation in Linux and core system operations as I step into the world of Cloud computing.
@@ -67,10 +68,7 @@ I am actively building a comprehensive, structured handbook on **Linux system ar
 | **C For Everyone** | University of California, Santa Cruz | Comprehensive introduction to C programming covering compilation, debugging, variables, data types, and core problem-solving logic by UC Santa Cruz | ✅ Completed | [Click Here](https://coursera.org/share/e9695ed47a0019ac5a0cc4d8085eb8c3) |
 | **3 Day Web Dev Bootcamp** | Tegrand Infotech | Hands-on bootcamp focused on building responsive web projects using HTML5, CSS3, Tailwind CSS, and JavaScript fundamentals | ✅ Completed | [Click Here](./certs/web-dev-bootcamp.png) |
 
-
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mrhx01&theme=dark)](https://git.io/streak-stats)
 
 ### My Activity
 <p align="left">
