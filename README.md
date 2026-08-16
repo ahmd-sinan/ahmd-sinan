@@ -9,18 +9,27 @@ I am a **Self-Taught Developer** who love exploring how operating systems work a
 
 ### Tech Stack & Arsenal
 <p align="center">
-  <br>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=flask" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bash" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=aws" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=html" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=css" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a>
 </p>
 
 ---
@@ -40,6 +49,7 @@ I document my **Daily Learning Log** in my TIL Repo, Check it out!
 [![My TIL](https://img.shields.io/badge/_Today_I_Learnt_(TIL)-Click_Here!-blue?style=for-the-badge&logo=github)](https://github.com/ahmd-sinan/Today-I-Learnt) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Last Commit](https://img.shields.io/github/last-commit/ahmd-sinan/Today-I-Learned?style=flat&color=green&label=Updated)
 
 ---
+
 ### 🐧 Deep-Dive Technical Wiki
 I am actively building a comprehensive, structured handbook on **Linux system architecture**, server environments, and backend infrastructure.
 <br><br>
@@ -56,6 +66,8 @@ I am actively building a comprehensive, structured handbook on **Linux system ar
 
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mrhx01&theme=dark)](https://git.io/streak-stats)
 
 ### My Activity
 <p align="left">
