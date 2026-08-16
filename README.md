@@ -1,4 +1,9 @@
-### Hi there, I'm Ahamed Sinan! 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Ahamed+Sinan!;Welcome+to+my+developer+profile!" alt="Typing SVG" />
+  </a>
+</p>
+
 #### Undergraduate | 🎓 Harvard CS50x Certified | Linux & Cloud Enthusiast 🐧
 
 I am currently pursuing my **Bachelor of Computer Applications (BCA)** at **Majlis Arts and Science College (Autonomous)** - (Affiliated to University of Calicut).
